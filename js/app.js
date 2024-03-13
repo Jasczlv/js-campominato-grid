@@ -6,7 +6,7 @@ const row = document.querySelector(".row.f-wrap");
 
 play.addEventListener("click", function () {
   const facile = document.querySelector('input[value = "facile"]');
-  console.log("pipino");
+  console.log("asd");
   let lato = 10;
   let quadrato = lato ** 2;
   for (i = 0; i < quadrato; i++) {
